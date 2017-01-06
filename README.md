@@ -33,8 +33,8 @@ Programmation de serveur
 # Architecture
 
 - Tiers, 2 Tier (C/S), 3 Tier
-- Distributed
 - Microservices
+- Distributed (Hadoop, Spark, ...)
 
 
 # Reactive Programming
