@@ -1,6 +1,11 @@
 # INF1053-17H
 Programmation de serveur
 
+# UML
+
+
+# Degin Patterns
+
 
 # Architecture
 
