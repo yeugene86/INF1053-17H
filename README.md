@@ -32,8 +32,8 @@ Programmation de serveur
 
 # Architecture
 
-- 2 tier (C/S)
-- 3 Tier
+- Tiers, 2 Tier (C/S), 3 Tier
+- Distributed
 - Microservices
 
 
