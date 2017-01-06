@@ -38,3 +38,5 @@ Programmation de serveur
 
 # Reactive Programming
 - [ReactiveX](http://reactivex.io) (An API for asynchronous programming with observable streams)
+- Akka Actors
+- Reactive Streaming
