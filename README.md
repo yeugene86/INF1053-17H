@@ -23,7 +23,7 @@ Programmation de serveur
 - Communication
 - Interaction
 
-# Degin Patterns
+# [Degin Patterns](https://fr.wikipedia.org/wiki/Patron_de_conception)
 
 - Observer Pattern
 - Iterator pattern
