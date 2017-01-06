@@ -23,6 +23,7 @@ Programmation de serveur
 
 - Observer Pattern
 - Iterator pattern
+- Strategy Pattern (i.e. Dependency Injection)
 
 
 # Architecture
