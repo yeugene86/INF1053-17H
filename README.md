@@ -6,6 +6,9 @@ Programmation de serveur
 
 # Degin Patterns
 
+- Observer Pattern
+- Iterrator pattern
+
 
 # Architecture
 
