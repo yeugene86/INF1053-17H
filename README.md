@@ -3,11 +3,12 @@ Programmation de serveur
 
 # Revision
    Language:
-     -Type Inference
-     - GC
-     - Immutability
-     - HOF
-     - pass by value and by name 
+     -Type Inference  
+     - GC  
+     - Immutability  
+     - HOF  
+     - pass by value and by name   
+     - Data Structure[https://twitter.github.io/scala_school/collections.html]
 
 # [BDD](https://fr.wikipedia.org/wiki/Behavior_driven_development) 
 - Unit Testing
