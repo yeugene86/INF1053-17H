@@ -1,6 +1,14 @@
 # INF1053-17H
 Programmation de serveur
 
+# Revision
+   Language:
+     -Type Inference
+     - GC
+     - Immutability
+     - HOF
+     - pass by value and by name 
+
 # [BDD](https://fr.wikipedia.org/wiki/Behavior_driven_development) 
 - Unit Testing
 - Unit Suite
