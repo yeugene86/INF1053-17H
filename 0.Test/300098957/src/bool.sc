@@ -71,8 +71,10 @@ def sum(args: Int*) = args.sum
 
 sum(1,2,3)
 
+(1,2,3)
 
+val (i1, i2, i3, i4) = (1,2,3,4)
 
-
+println(i1)
 
 
