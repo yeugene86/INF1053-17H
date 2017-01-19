@@ -8,6 +8,11 @@ http://docs.scala-lang.org/fr/cheatsheets/
 ## Créateur 
 Martin Odersky EPFL
 
+## Documentation
+
+Rechercher le document  
+Programming in Scala, 2nd edition (Artima, 2011, 0981531644)
+
 ## Type de programmation
 
 Programmation Fonctionnelle (Hybride)
