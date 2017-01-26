@@ -6,7 +6,7 @@ Programmation de serveur
      -Type Inference  
      - GC  
      - Immutability  
-     - HOF  
+     - HOF (Higher-Order Function)
      - pass by value and by name   
      - [Data Structure](https://twitter.github.io/scala_school/collections.html)
 
