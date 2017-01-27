@@ -47,6 +47,7 @@ Programmation de serveur
 
 
 # Reactive Programming
+- Why Reactive?
 - [ReactiveX](http://reactivex.io) (An API for asynchronous programming with observable streams)
         https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 - Akka Actors
