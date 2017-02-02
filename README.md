@@ -28,7 +28,7 @@ Programmation de serveur
    - `Factory Method`: 
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/New_WikiFactoryMethod.png/734px-New_WikiFactoryMethod.png) 
    - `Singleton`: 
-![alt tag](https://en.wikipedia.org/wiki/Singleton_pattern#/media/File:Singleton_UML_class_diagram.svg)
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/f/fb/Singleton_UML_class_diagram.svg)
    
    
 * [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
