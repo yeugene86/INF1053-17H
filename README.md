@@ -25,6 +25,8 @@ Programmation de serveur
    > Patrons Centrés autour de la gestion de classes et d'objects  
    - `Abstract Factory`: 
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/4/4c/Abstract_Factory.png) 
+   - `Factory Method`: 
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/New_WikiFactoryMethod.png/734px-New_WikiFactoryMethod.png) 
    
    
 * [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
