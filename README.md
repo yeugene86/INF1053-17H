@@ -32,11 +32,18 @@ Programmation de serveur
    - `Singleton`:  
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/f/fb/Singleton_UML_class_diagram.svg)
    
+   ** Structural Pattern:  
+   
+      - `Decorator`:   
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/e/e9/Decorator_UML_class_diagram.svg)  
+
    
 * [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
    > Patrons Centrés autour de la gestion des applications  
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)  
    > Patrons Centrés autour de l'integration des applications  
+
+
 
 # Architecture
 
