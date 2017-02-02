@@ -43,11 +43,14 @@ Programmation de serveur
    ** Behavioral Pattern:  
 
       - `Command`:   
-![alt tag](https://upload.wikimedia.org/wikipedia/commons/b/bf/Command_pattern.svg)
+   ![alt tag](https://upload.wikimedia.org/wikipedia/commons/b/bf/Command_pattern.svg)
 
       - `Iterator`:   
-![alt tag](https://upload.wikimedia.org/wikipedia/commons/1/13/Iterator_UML_class_diagram.svg)
+   ![alt tag](https://upload.wikimedia.org/wikipedia/commons/1/13/Iterator_UML_class_diagram.svg)
 
+
+      - `Observer`:   
+   ![alt tag](https://upload.wikimedia.org/wikipedia/commons/8/8d/Observer.svg)
    
 * [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
    > Patrons Centrés autour de la gestion des applications  
