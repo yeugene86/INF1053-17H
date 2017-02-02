@@ -52,6 +52,13 @@ Programmation de serveur
       - `Observer`:   
    ![alt tag](https://upload.wikimedia.org/wikipedia/commons/8/8d/Observer.svg)
    
+   - `State`:   
+   ![alt tag](https://upload.wikimedia.org/wikipedia/commons/e/e8/State_Design_Pattern_UML_Class_Diagram.svg)
+   
+   - `Strategy`:   
+   ![alt tag](https://upload.wikimedia.org/wikipedia/commons/3/39/Strategy_Pattern_in_UML.png)
+   
+   
 * [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
    > Patrons Centrés autour de la gestion des applications  
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)  
