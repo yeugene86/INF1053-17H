@@ -33,6 +33,11 @@ Programmation de serveur
 - Communication
 - Interaction
 
+# Livres:
+* [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)  
+* [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
+* [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)  
+
 # [Degin Patterns](https://fr.wikipedia.org/wiki/Patron_de_conception)
 
 - Observer Pattern
