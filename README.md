@@ -76,6 +76,15 @@ Programmation de serveur
    - `Active Record`:   
    ![alt tag](https://www.martinfowler.com/eaaCatalog/activeRecordSketch.gif)
 
+   ** Object-Relational Behavioral Patterns
+   
+   - `Identity Map`:   
+   ![alt tag](https://www.martinfowler.com/eaaCatalog/idMapperSketch.gif)
+   
+   - `Lazy Load`:   
+   ![alt tag](https://www.martinfowler.com/eaaCatalog/lazyLoadSketch.gif)
+
+
    
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)  
    > Patrons Centrés autour de l'integration des applications  
