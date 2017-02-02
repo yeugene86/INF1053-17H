@@ -15,7 +15,7 @@ Programmation de serveur
    * [Cucumber](https://bitbucket.org/jordipradel/cucumber-scala-example/)
 - Unit Suite
 
-# [UML](2.UML/README.md)
+# [UML](2.UML)
 
 # Livres:
 * [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)  
