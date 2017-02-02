@@ -35,7 +35,10 @@ Programmation de serveur
    ** Structural Pattern:  
    
       - `Decorator`:   
-![alt tag](https://upload.wikimedia.org/wikipedia/commons/e/e9/Decorator_UML_class_diagram.svg|width=75)  
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/e/e9/Decorator_UML_class_diagram.svg)  
+
+      - `Facade`:   
+![alt tag](https://upload.wikimedia.org/wikipedia/en/5/57/Example_of_Facade_design_pattern_in_UML.png)  
 
    
 * [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
