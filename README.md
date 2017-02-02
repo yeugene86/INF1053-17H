@@ -45,6 +45,8 @@ Programmation de serveur
       - `Command`:   
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/b/bf/Command_pattern.svg)
 
+      - `Iterator`:   
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/1/13/Iterator_UML_class_diagram.svg)
 
    
 * [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
