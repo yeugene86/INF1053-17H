@@ -20,13 +20,13 @@ Programmation de serveur
 
    L'UML est le résultat de la fusion de précédents langages de modélisation objet : Booch, OMT, OOSE. Principalement issu des travaux de Grady Booch, James Rumbaugh et Ivar Jacobson, UML est à présent un standard adopté par l'Object Management Group (OMG).
 
-# [Patrons de Conception](https://fr.wikipedia.org/wiki/Patron_de_conception)
+# [Patrons de Conception](https://fr.wikipedia.org/wiki/Patron_de_conception)  
 * [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns) 
-   Centre autour des classes et objects  
+   Patrons Centrés autour de la gestion de classes et d'objects  
 * [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
-   Centre autour des applications  
+   Patrons Centrés autour de la gestion des applications  
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)  
-   Centre autour de l'integration des applications  
+   Patrons Centrés autour de l'integration des applications  
 
 # Architecture
 
