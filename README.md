@@ -24,7 +24,7 @@ Programmation de serveur
 * [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)  
    > Patrons Centrés autour de la gestion de classes et d'objects  
    - `Abstract Factory`: 
-|[alt src](https://commons.wikimedia.org/wiki/File:Abstract_Factory.png) 
+|[alt tag](https://commons.wikimedia.org/wiki/File:Abstract_Factory.png) 
    
    
 * [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
