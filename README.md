@@ -62,11 +62,19 @@ Programmation de serveur
 * [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
    > Patrons Centrés autour de la gestion des applications  
    
+   ** Domain Logic Patterns
+   
    - `Domain Model`:   
    ![alt tag](https://upload.wikimedia.org/wikipedia/commons/2/2d/Domain_model.png)
 
    - `Service Layer`:   
    ![alt tag](https://martinfowler.com/eaaCatalog/ServiceLayerSketch.gif)
+
+
+   ** Data Source Architectural Patterns
+   
+   - `Active Record`:   
+   ![alt tag](https://www.martinfowler.com/eaaCatalog/activeRecordSketch.gif)
 
    
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)  
