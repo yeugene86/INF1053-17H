@@ -23,11 +23,11 @@ Programmation de serveur
 # [Patrons de Conception](https://fr.wikipedia.org/wiki/Patron_de_conception)  
 * [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)  
    > Patrons Centrés autour de la gestion de classes et d'objects  
-   - `Abstract Factory`: 
+   - `Abstract Factory`:   
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/4/4c/Abstract_Factory.png) 
-   - `Factory Method`: 
+   - `Factory Method`:  
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/New_WikiFactoryMethod.png/734px-New_WikiFactoryMethod.png) 
-   - `Singleton`: 
+   - `Singleton`:  
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/f/fb/Singleton_UML_class_diagram.svg)
    
    
