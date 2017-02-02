@@ -43,7 +43,7 @@ Programmation de serveur
    ** Behavioral Pattern:  
 
       - `Command`:   
-![alt tag](https://en.wikipedia.org/wiki/Command_pattern#/media/File:Command_pattern.svg)
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/b/bf/Command_pattern.svg)
 
 
    
