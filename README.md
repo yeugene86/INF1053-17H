@@ -76,7 +76,9 @@ Programmation de serveur
    - `Active Record`:   
    ![alt tag](https://www.martinfowler.com/eaaCatalog/activeRecordSketch.gif)
 
-   ** Object-Relational Behavioral Patterns
+   ** Object-Relational Patterns
+   
+   *** Behavioral 
    
    - `Identity Map`:   
    ![alt tag](https://www.martinfowler.com/eaaCatalog/idMapperSketch.gif)
@@ -84,6 +86,33 @@ Programmation de serveur
    - `Lazy Load`:   
    ![alt tag](https://www.martinfowler.com/eaaCatalog/lazyLoadSketch.gif)
 
+   *** Structural
+   - `Idnetity Field`:   
+   ![alt tag](https://www.martinfowler.com/eaaCatalog/idFieldSketch.gif)
+
+   *** Metadata
+   - `Query Object`:   
+   ![alt tag](https://www.martinfowler.com/eaaCatalog/queryObjectSketch.gif)
+
+
+   ** Web Presentation Patterns
+   
+   - `Model View Controller`:   
+   ![alt tag](https://upload.wikimedia.org/wikipedia/commons/a/a0/MVC-Process.svg)
+   
+   ** Distribution Patterns
+   Remote Facade
+   Data Transfer Object
+
+   ** Session State Patterns
+   Client Session State
+   Server Session State
+   Database Session State
+
+   ** Base Patterns
+   Value Object
+   Service Stub
+   Record Set
 
    
 * [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)  
