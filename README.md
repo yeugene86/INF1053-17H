@@ -40,6 +40,12 @@ Programmation de serveur
       - `Facade`:   
 ![alt tag](https://upload.wikimedia.org/wikipedia/en/5/57/Example_of_Facade_design_pattern_in_UML.png)  
 
+   ** Behavioral Pattern:  
+
+      - `Command`:   
+![alt tag](https://en.wikipedia.org/wiki/Command_pattern#/media/File:Command_pattern.svg)
+
+
    
 * [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
    > Patrons Centrés autour de la gestion des applications  
