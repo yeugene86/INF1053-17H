@@ -15,23 +15,7 @@ Programmation de serveur
    * [Cucumber](https://bitbucket.org/jordipradel/cucumber-scala-example/)
 - Unit Suite
 
-# [UML](https://fr.wikipedia.org/wiki/UML_(informatique))
-### Diagrammes de Structures
-- Classes
-- Objets
-- Components
-- Packages
-- Deployments
-
-### Diagrammes de Comportements
-- Use-Case 
-- State Machine
-- Activity
-
-### Diagrammes d'Interactions
-- Sequence
-- Communication
-- Interaction
+# [UML](2.UML/README.md)
 
 # Livres:
 * [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)  
