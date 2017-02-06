@@ -79,19 +79,19 @@
    - `Model View Controller`:   
    ![alt tag](https://upload.wikimedia.org/wikipedia/commons/a/a0/MVC-Process.svg)
    
-   ** Distribution Patterns  
-   Remote Facade  
-   Data Transfer Object  
+### Distribution Patterns  
+   - Remote Facade  
+   - Data Transfer Object  
 
-   ** Session State Patterns  
-   Client Session State  
-   Server Session State  
-   Database Session State  
+### Session State Patterns  
+   - Client Session State  
+   - Server Session State  
+   - Database Session State  
 
-   ** Base Patterns  
-   Value Object  
-   Service Stub  
-   Record Set  
+### Base Patterns  
+   - Value Object  
+   - Service Stub  
+   - Record Set  
 
    
 ## [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)  
