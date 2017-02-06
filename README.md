@@ -22,6 +22,8 @@ Programmation de serveur
 
 # [Patrons de Conception](B.Patrons)  
 
+   Un patron de conception est issu de l'expérience des concepteurs de logiciels2. Il décrit un arrangement récurrent de rôles et d'actions joués par des modules d'un logiciel, et le nom du patron sert de vocabulaire commun entre le concepteur et le programmeur
+
 # Architecture
 
 - Tiers, 2 Tier (C/S), 3 Tier
