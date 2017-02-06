@@ -1,8 +1,9 @@
 # [Patrons de Conception](https://fr.wikipedia.org/wiki/Patron_de_conception)  
-* [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)  
+
+## [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)  
    > Patrons Centrés autour de la gestion de classes et d'objects  
    
-   ** Creational Pattern:  
+### Creational Pattern:  
    - `Abstract Factory`:   
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/4/4c/Abstract_Factory.png) 
    - `Factory Method`:  
@@ -10,7 +11,7 @@
    - `Singleton`:  
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/f/fb/Singleton_UML_class_diagram.svg)
    
-   ** Structural Pattern:  
+### Structural Pattern:  
    
       - `Decorator`:   
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/e/e9/Decorator_UML_class_diagram.svg)  
@@ -18,7 +19,7 @@
       - `Facade`:   
 ![alt tag](https://upload.wikimedia.org/wikipedia/en/5/57/Example_of_Facade_design_pattern_in_UML.png)  
 
-   ** Behavioral Pattern:  
+### Behavioral Pattern:  
 
       - `Command`:   
    ![alt tag](https://upload.wikimedia.org/wikipedia/commons/b/bf/Command_pattern.svg)
@@ -37,10 +38,10 @@
    ![alt tag](https://upload.wikimedia.org/wikipedia/commons/3/39/Strategy_Pattern_in_UML.png)
    
    
-* [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
+## [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html)  
    > Patrons Centrés autour de la gestion des applications  
    
-   ** Domain Logic Patterns
+### Domain Logic Patterns
    
    - `Domain Model`:   
    ![alt tag](https://upload.wikimedia.org/wikipedia/commons/2/2d/Domain_model.png)
@@ -49,14 +50,14 @@
    ![alt tag](https://martinfowler.com/eaaCatalog/ServiceLayerSketch.gif)
 
 
-   ** Data Source Architectural Patterns
+### Data Source Architectural Patterns
    
    - `Active Record`:   
    ![alt tag](https://www.martinfowler.com/eaaCatalog/activeRecordSketch.gif)
 
-   ** Object-Relational Patterns
+   > Object-Relational Patterns
    
-   *** Behavioral 
+*** Behavioral 
    
    - `Identity Map`:   
    ![alt tag](https://www.martinfowler.com/eaaCatalog/idMapperSketch.gif)
@@ -64,16 +65,16 @@
    - `Lazy Load`:   
    ![alt tag](https://www.martinfowler.com/eaaCatalog/lazyLoadSketch.gif)
 
-   *** Structural
-   - `Idnetity Field`:   
+*** Structural
+   - `Identity Field`:   
    ![alt tag](https://www.martinfowler.com/eaaCatalog/idFieldSketch.gif)
 
-   *** Metadata
+*** Metadata
    - `Query Object`:   
    ![alt tag](https://www.martinfowler.com/eaaCatalog/queryObjectSketch.gif)
 
 
-   ** Web Presentation Patterns
+### Web Presentation Patterns
    
    - `Model View Controller`:   
    ![alt tag](https://upload.wikimedia.org/wikipedia/commons/a/a0/MVC-Process.svg)
@@ -93,7 +94,7 @@
    Record Set  
 
    
-* [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)  
+## [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)  
    > Patrons Centrés autour de l'integration des applications  
 
 
