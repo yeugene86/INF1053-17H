@@ -97,4 +97,6 @@
 ## [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)  
    > Patrons Centrés autour de l'integration des applications  
 
+### Pub-Sub (Publish and Subscribe)
+
 
