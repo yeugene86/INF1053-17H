@@ -1,6 +1,8 @@
 # INF1053-17H
 Programmation de serveur
 
+# [Devoirs](DEVOIRS.md) 
+
 # Revision
    Language:
      -Type Inference  
