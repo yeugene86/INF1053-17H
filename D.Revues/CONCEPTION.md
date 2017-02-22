@@ -1,5 +1,10 @@
 # Conception
 
+# Testing
+
+  * BDD (Behavior-Driven Development)  
+  * TDD (Test-Driven Developement)
+
 # Notation UML
 
 * Use Case Diagram  
