@@ -11,7 +11,8 @@ Programmation de serveur
      - Immutability  (MUTEX)  
      - HOF (Higher-Order Function)
      - pass by value and by name   
-     - [Data Structure](https://twitter.github.io/scala_school/collections.html)
+     - [Data Structure](https://twitter.github.io/scala_school/collections.html)  
+     - Pattern Matching
 
 # [BDD](https://fr.wikipedia.org/wiki/Behavior_driven_development) 
 - Unit Testing
