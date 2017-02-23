@@ -6,7 +6,7 @@ Programmation de serveur
 # Revision
    Language:
      -Type Inference  
-     - GC  
+     - GC  (Garbage Collector) - Éboueur
      - Immutability  
      - HOF (Higher-Order Function)
      - pass by value and by name   
