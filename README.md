@@ -4,7 +4,8 @@ Programmation de serveur
 # [Devoirs](DEVOIRS.md) 
 
 # Revision
-   Language:
+   Language:  
+     - Functional Programming  
      -Type Inference  
      - GC  (Garbage Collector) - Éboueur  
      - Immutability  (MUTEX)  
