@@ -5,6 +5,8 @@ package Singleton
   */
 class _Singleton {
 
+  def test(): Int = 0
+
 }
 
 // Companion Object
@@ -17,6 +19,8 @@ object _Singleton {
 object SingletonScalaDemo {
   def main(args: Array[String]): Unit = {
     _Singleton.demoMethod()
+    val s = new _Singleton
+    s.test()
   }
 }
 
