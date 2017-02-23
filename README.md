@@ -7,7 +7,7 @@ Programmation de serveur
    Language:
      -Type Inference  
      - GC  (Garbage Collector) - Éboueur  
-     - Immutability  (MUTEX)
+     - Immutability  (MUTEX)  
      - HOF (Higher-Order Function)
      - pass by value and by name   
      - [Data Structure](https://twitter.github.io/scala_school/collections.html)
