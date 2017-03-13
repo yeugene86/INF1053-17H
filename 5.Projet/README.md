@@ -30,6 +30,8 @@ Le projet sera décrit sur github ou sur un blog de votre choix
 Les schémas sont obligatoires et doivent être explicites.  
 Vous pourrez également introduire des schémas conceptuels de donnés d'autres cours.
 
+Utiliser [visual-paradigm](https://www.visual-paradigm.com/) pour les diagrammes 
+
 À rendre: TBD  
 
 
